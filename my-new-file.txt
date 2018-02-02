@@ -1,0 +1,18 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 004F-E1DA
+
+ Directory of C:\Users\Owner\Documents\main_projects\FLATIRON SCHOOL\first-lab-prework
+
+02/02/2018  11:11 AM    <DIR>          .
+02/02/2018  11:11 AM    <DIR>          ..
+02/02/2018  10:05 AM               117 .learn
+02/02/2018  10:05 AM                32 .rspec
+02/02/2018  10:05 AM             1,846 CONTRIBUTING.md
+02/02/2018  10:05 AM                46 Gemfile
+02/02/2018  10:05 AM               530 Gemfile.lock
+02/02/2018  10:05 AM             1,356 LICENSE.md
+02/02/2018  11:11 AM                 0 my-new-file.txt
+02/02/2018  10:05 AM             6,625 README.md
+02/02/2018  10:05 AM    <DIR>          spec
+               8 File(s)         10,552 bytes
+               3 Dir(s)  50,855,059,456 bytes free
